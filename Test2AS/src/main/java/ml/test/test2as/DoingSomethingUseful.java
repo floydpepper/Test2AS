@@ -9,6 +9,7 @@ public class DoingSomethingUseful {
     {
         int x = 5;
         System.out.print("Nothing in particular "+x);
+
         return true;
     }
 }

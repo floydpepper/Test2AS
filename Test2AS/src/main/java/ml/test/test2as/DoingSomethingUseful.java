@@ -7,7 +7,8 @@ public class DoingSomethingUseful {
 
     public boolean testingFiles()
     {
-        System.out.print("Nothing in particular");
+        int x = 5;
+        System.out.print("Nothing in particular "+x);
         return true;
     }
 }

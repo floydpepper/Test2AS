@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Test2AS
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="hello_world" >Hello Karen!
+    </string>
+    <string name="second_string">Goodbye Karen!
+    </string>
+    <string name="opening_string">Blank</string>
+    <string name="button_text">Save</string>
+    <string name="wordcount1">Word count:</string>
+
+</resources>
